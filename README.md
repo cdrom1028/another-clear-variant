@@ -1,6 +1,6 @@
 # Another Clear Variant
 A variant of Clear Theme Dark for Home Assistant with rounded corners
-- check out [Clear Theme Dark](https://github.com/naofireblade/clear-theme-dark)
+- check out [Clear Theme Dark](https://github.com/naofireblade/clear-theme-dark) and buy @naofireblade a cup of Coffee if you like his theme!
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
 [![GitHub last commit](https://img.shields.io/github/last-commit/cdrom1028/another-clear-variant)](https://github.com/cdrom1028/another-clear-variant)
