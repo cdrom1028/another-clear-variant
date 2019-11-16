@@ -60,3 +60,7 @@ another-clear-variant:
   
   # Shadows
   ha-card-box-shadow: 'inset 0px 0px 0px 1px var(--border-color)'
+
+  ## Tables ##
+  table-row-alternative-background-color: "var(--background-color-2)"
+  table-row-background-color: "var(--background-color)"
