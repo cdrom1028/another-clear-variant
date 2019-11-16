@@ -30,7 +30,7 @@ This is a theme for [Home Assistant](https://www.home-assistant.io/). You can in
 ## Known problems
 - Text in the logbook is barely readable (not fixable at the moment)
 
-> Feel free to leave any feedback [here](https://github.com/naofireblade/clear-theme-dark/issues).
+> Feel free to leave any feedback [here](https://github.com/cdrom1028/another-clear-variant/issues).
 
 ## Donations
 If you like this theme, I would be grateful for your support:
