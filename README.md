@@ -33,9 +33,9 @@ This is a theme for [Home Assistant](https://www.home-assistant.io/). You can in
 > Feel free to leave any feedback [here](https://github.com/naofireblade/clear-theme-dark/issues).
 
 ## Donations
-If you like this theme, I would be forever grateful for your support:
+If you like this theme, I would be grateful for your support:
 
-
+<a href="https://www.buymeacoffee.com/UkeoJiV" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" style="height: 22px !important;width: 110px !important;" ></a>
 
 ## Attributions
 - Background Image based on an image from [unknown](https://visme.co/blog/simple-backgrounds/)
