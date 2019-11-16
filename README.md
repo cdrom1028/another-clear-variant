@@ -3,7 +3,7 @@ Another variant of Clear Theme Dark for Home Assistant with rounded corners
 
 # Clear Theme Dark
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
-[![GitHub last commit](https://img.shields.io/github/last-commit/naofireblade/clear-theme-dark)](https://github.com/naofireblade/clear-theme-dark)
+[![GitHub last commit](https://img.shields.io/github/last-commit/cdrom1028/another-clear-variant)](https://github.com/cdrom1028/another-clear-variant)
 
 This is a theme for [Home Assistant](https://www.home-assistant.io/). You can install it [manually](#installation) or via [HACS](https://hacs.xyz/).
 
