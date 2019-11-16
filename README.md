@@ -35,7 +35,7 @@ This is a theme for [Home Assistant](https://www.home-assistant.io/). You can in
 ## Donations
 If you like this theme, I would be forever grateful for your support:
 
-<a href="https://www.buymeacoffee.com/UkeoJiV" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee"></a>
+<a href="https://www.buymeacoffee.com/UkeoJiV" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 
 ## Attributions
 - Background Image based on an image from [unknown](https://visme.co/blog/simple-backgrounds/)
