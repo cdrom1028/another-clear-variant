@@ -1,4 +1,4 @@
-## [Another Clear Variant Theme](https://github.com/cdrom1028/another-clear-variant) for Home Assistant Lovelace.
+## [Another Clear Variant](https://github.com/cdrom1028/another-clear-variant) Theme for Home Assistant Lovelace.
 
 This is a theme for the [Home Assistant](https://home-assistant.io) frontend interface [Lovelace](https://www.home-assistant.io/lovelace/).
 
