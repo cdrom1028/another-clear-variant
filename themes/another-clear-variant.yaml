@@ -1,6 +1,6 @@
 another-clear-variant:
   # Background image
-  lovelace-background: 'center / cover no-repeat url("/local/night.jpg") fixed'
+  background-image: 'center / cover no-repeat url("/local/backgrounds/B-W_wood.jpg") fixed'
 
   # Colors
   text-color: '#DADADB'                                                           # Grey text
@@ -18,7 +18,7 @@ another-clear-variant:
   ## States and Badges ##
   label-badge-background-color: "var(--paper-card-background-color)"
   label-badge-border-color: "var(--label-badge-red)"
-  label-badge-red: "hsl(0°, 100%, 50%)"
+  label-badge-red: '#a60000'
   label-badge-text-color: "var(--primary-text-color)"
 
   # Header

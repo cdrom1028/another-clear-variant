@@ -40,12 +40,12 @@ test:
   lumo-primary-text-color: "var(--primary-color)"
   lumo-secondary-text-color: "var(--primary-color)"
   lumo-shade: "var(--medium-grey-color)"
+  lumo-shade-5pct: "rgba(41, 41, 41, .05)"
   lumo-shade-10pct: "rgba(41, 41, 41, .1)"
   lumo-shade-20pct: "rgba(41, 41, 41, .2)"
   lumo-shade-30pct: "rgba(41, 41, 41, .3)"
   lumo-shade-40pct: "rgba(41, 41, 41, .4)"
   lumo-shade-50pct: "rgba(41, 41, 41, .5)"
-  lumo-shade-5pct: "rgba(41, 41, 41, .05)"
   lumo-shade-60pct: "rgba(41, 41, 41, .6)"
   lumo-shade-70pct: "rgba(41, 41, 41, .7)"
   lumo-shade-80pct: "rgba(41, 41, 41, .8)"
@@ -56,7 +56,7 @@ test:
   ## States and Badges ##
   label-badge-background-color: "var(--paper-card-background-color)"
   label-badge-border-color: "var(--label-badge-red)"
-  label-badge-red: "hsl(20, 50%, 25%)"
+  label-badge-red: '#a60000'
   label-badge-text-color: "var(--primary-text-color)"
 
 
