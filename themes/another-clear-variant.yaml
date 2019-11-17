@@ -15,6 +15,12 @@ another-clear-variant:
   border-color: '#383C46'
   ha-card-border-radius: "15px"                                                       # Grey border
 
+  ## States and Badges ##
+  label-badge-background-color: "var(--paper-card-background-color)"
+  label-badge-border-color: "var(--label-badge-red)"
+  label-badge-red: "hsl(360°, 97%, 100%)"
+  label-badge-text-color: "var(--primary-text-color)"
+
   # Header
   primary-color: '#363941'                                                        # Background color
   text-primary-color: 'var(--text-color)'                                         # Text
